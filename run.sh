@@ -16,8 +16,6 @@ else
     python ../trans_data.py test.txt mq2008.test mq2008.test.group
     python ../trans_data.py vali.txt mq2008.vali mq2008.vali.group
 
-    cp ../notebook.ipynb .
-
     cd ..
 fi
 
